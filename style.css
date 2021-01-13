@@ -47,7 +47,12 @@ span .text2{
 }
 
 .imgHeight{
-  height: 258px
+  height: 100px;
+}
+
+.card1{
+  max-width: 85%;
+  margin: 1.5rem auto;
 }
 
 
