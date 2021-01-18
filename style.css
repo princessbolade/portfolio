@@ -47,7 +47,9 @@ span .text2{
 }
 
 .imgHeight{
-  height: 100px;
+  height: auto;
+  width: auto;
+  background-size: cover;
 }
 
 .card1{
