@@ -13,3 +13,10 @@ document.getElementById("exp-nav").addEventListener("click", () => {
     .getElementById("experience")
     .scrollIntoView({ behavior: "smooth", block: "start", inline: "end" });
 });
+
+const menu = document.getElementById("menu");
+const bimbo = document.getElementById("bimbo");
+
+menu.addEventListener("click", () => {
+  bimbo.classList.toggle("open");
+});

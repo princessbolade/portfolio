@@ -56,3 +56,12 @@ span .text2 {
   max-width: 85%;
   margin: 1.5rem auto;
 }
+.open {
+  display: block;
+  position: absolute;
+  width: 90vw;
+  overflow-y: hidden;
+}
+/* nav {
+  transition: all 0.5s 0.5s ease-in-out;
+} */
